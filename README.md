@@ -1,4 +1,6 @@
 # 💫 About Me:
+Hello, I'm Pierre Riblet Cahurel, a passionate development and cybersecurity apprentice from France 🇫🇷.
+
 🔭 I’m currently working on RGPD, cybersecurity and IA<br>🌱 I’m currently learning to get my bachelor<br>
 
 
